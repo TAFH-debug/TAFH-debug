@@ -14,7 +14,7 @@
   * **C** ✅
 
 
-#### I learning now:
+#### I am learning now:
   * **Scala** 📖
   * **NASM** 📖
 
