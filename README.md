@@ -1,5 +1,4 @@
 ## Hi! :wave:
-### You can call me "tafh" 😄
 
 #### My main programming langs: 
   * **Python** 🐍
@@ -12,11 +11,6 @@
   * **JS** ✅
   * **F#** ✅
   * **C** ✅
-
-
-#### I am learning now:
-  * **Scala** 📖
-  * **NASM** 📖
 
 ### My account in Discord: DTR TAFH#9128
 # 👌
