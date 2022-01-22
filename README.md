@@ -1,16 +1,10 @@
 ## Hi! :wave:
 
-#### My main programming langs: 
+#### My main programming languages: 
   * **Python** 🐍
   * **Java** ☕
   * **Kotlin** :octocat:
-
-
-#### I also know, but I don't use it so often:
-  * **C#** ✅
-  * **JS** ✅
-  * **F#** ✅
-  * **C** ✅
+  * **Rust** 💻
 
 ### My account in Discord: DTR TAFH#9128
 # 👌
