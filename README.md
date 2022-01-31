@@ -12,17 +12,18 @@ class TAFH:
 			"rust",
 			"c#",
 			"javascript/nodejs",
-      "f#"
+			"f#"
 		)
 
 	def get_stack(self):
 		return self.stack
 
-  def get_goals(self):
-    return (
-      "learn golang",
-      "make a personal website"
-    )
+  	def get_goals(self):
+  	  return (
+  	    "learn golang",
+  	    "make a personal website"
+  	  )
+		
 ```
 
 ### My account in Discord: DTR TAFH#9128
