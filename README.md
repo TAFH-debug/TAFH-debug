@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tafh-debug&show_icons=true&locale=en&layout=compact" alt="tafh-debug" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tafh-debug&show_icons=true&locale=en" alt="tafh-debug" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TAFH-debug)](https://github.com/ryo-ma/github-profile-trophy)
