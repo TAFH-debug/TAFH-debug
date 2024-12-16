@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm TAFH</h1>
-<h3 align="center">A Junior developer from Kazakhstan.</h3>
+# Hi there, I'm TAFH👋
 
-- 💬 Ask me about **rust, python, java.**
+Welcome to my GitHub profile! I'm passionate about coding and love to explore physics field. Here's a bit about me:
 
-- 📫 How to reach me **aushahman2007@gmail.com**
+- 🔭 I’m currently working on [LittleDB](https://github.com/TAFH-debug/LittleDB) and [Pygame Tools](https://github.com/TAFH-debug/pygame_tools_tafh)
+- 🌱 I’m currently learning new programming languages and frameworks
+- 👯 I’m part of CTF team in my school.
+- 💬 Ask me about anything tech-related
+- 📫 How to reach me: [aushahman2007@gmail.com]
+- ⚡ Fun fact: I enjoy solving problems on codeforces on my free time.
 
-- ⚡ Fun fact **I like physics.**
+## My GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/talimaushakhman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talimaushakhman" height="30" width="40" /></a>
-</p>
+![TAFH-debug's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAFH-debug&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+## Top Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tafh-debug&show_icons=true&locale=en&layout=compact" alt="tafh-debug" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TAFH-debug&layout=compact&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tafh-debug&show_icons=true&locale=en" alt="tafh-debug" /></p>
+## Connect with me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TAFH-debug)](https://github.com/ryo-ma/github-profile-trophy)
+[LinkedIn](https://www.linkedin.com/in/talim-aushakhman-5a2194225/) | [Instagram](https://www.instagram.com/talimaushakhman/)
+
+Thanks for visiting my profile!
